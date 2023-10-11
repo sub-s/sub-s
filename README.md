@@ -72,7 +72,7 @@ const profile = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub's&hide=contribs,prs)
 
 
 <!-- 방문자 -->
