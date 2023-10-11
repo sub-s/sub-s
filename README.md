@@ -56,21 +56,21 @@ Here are some ideas to get you started:
     </div>
     <!-- Others -->
 </div>
-
+```
 const profile = {
-    name: "김기현",
-    email: "kimkee@naver.com",
-    mobile: "010-3236-1677",
-    site: "kimkee.github.io",
+    name: "신용섭",
+    email: "spoon718@gmail.com",
+    mobile: "010-5127-3931",
+    site: "ing",
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
     opend:  true,
-    update: "2023-03-31",
+    update: "2023-10-11",
     call: e => {
         ui.alert("Please contact me via email");
     }
 };
-
+```
 <!-- 방문자 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
