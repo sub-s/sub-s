@@ -55,6 +55,7 @@ Here are some ideas to get you started:
     <!-- Others -->
 </div>
 
+## 🔨 Profile  🔨
 ```javascript
 const profile = {
     name: "신용섭",
