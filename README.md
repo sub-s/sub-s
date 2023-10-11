@@ -72,7 +72,7 @@ const profile = {
 };
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sub-s&layout=Compactlayout)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sub-s&layout=Hidden)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&layout=compact&show_icons=true&theme=dracula)
 
