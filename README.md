@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=sub-s)
