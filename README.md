@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->   
     <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <p><strong>Tech</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
         <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -58,6 +57,19 @@ Here are some ideas to get you started:
     <!-- Others -->
 </div>
 
+const profile = {
+    name: "김기현",
+    email: "kimkee@naver.com",
+    mobile: "010-3236-1677",
+    site: "kimkee.github.io",
+    locate: "Seoul Korea",
+    skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
+    opend:  true,
+    update: "2023-03-31",
+    call: e => {
+        ui.alert("Please contact me via email");
+    }
+};
 
 <!-- 방문자 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
