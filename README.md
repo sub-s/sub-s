@@ -72,7 +72,8 @@ const profile = {
 };
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sub-s)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sub-s&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&show_icons=true&theme=dracula)
 
 <!-- 방문자 -->
