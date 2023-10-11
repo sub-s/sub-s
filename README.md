@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     </div>
     <!-- Others -->
 </div>
-```
+```javascript
 const profile = {
     name: "신용섭",
     email: "spoon718@gmail.com",
