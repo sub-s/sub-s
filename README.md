@@ -72,9 +72,9 @@ const profile = {
 };
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![sub's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&layout=compact&show_icons=true&theme=compact)
+![sub's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&layout=compact&show_icons=true&theme=compact)
 
 
 <!-- 방문자 -->
