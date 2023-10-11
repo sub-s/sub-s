@@ -54,7 +54,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-    
     <!-- Others -->
 </div>
 
