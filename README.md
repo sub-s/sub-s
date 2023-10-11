@@ -74,11 +74,7 @@ const profile = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&layout=icons&show_icons=true&theme=github)
-
-
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username='user ID'" />
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username='user ID'&layout=compact" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sub-s&layout=compact&show_icons=true&theme=compact)
 
 
 <!-- 방문자 -->
