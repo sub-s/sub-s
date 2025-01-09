@@ -64,8 +64,8 @@ const profile = {
     site: "https://sub-s.github.io/Basic_Html",
     locate: "Seoul Korea",
     skill: ["HTML", "CSS", "Javascript" ,"Jquery", "Git", "SASS", "Gulp", "NPM"],
-    opend:  true,
-    update: "2024-02-01",
+    opend:  false,
+    update: "2025-01-01",
     call: e => {
         ui.alert("Please contact me via email");
     }
