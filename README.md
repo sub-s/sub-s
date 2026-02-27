@@ -12,7 +12,7 @@ const sub_s = {
     name: "신용섭",
     email: "spoon718@gmail.com",
     location: "Seoul, Korea",
-    skills: ["HTML", "CSS", "Javascript", "React", "Next.js", "Vue.js"],
+    skills: ["React", "Next.js", "Vue.js", "HTML", "CSS", "Javascript"],
     interest: ["Web Automation", "UI/UX Design", "Stock Trading Bot"],
     update: "2026-02-27",
     contact: () => {
